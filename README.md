@@ -6,5 +6,5 @@
 # GQRX
 # GnuRadio
 # Fldigi
-# Multimom-ng
+# Multimon-ng
 # Baudline
